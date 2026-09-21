@@ -1,9 +1,5 @@
-sushi,50.0,🍛Food
-sushi,50.0,🍛Food
-electricty,130.0,🏠Home
-spotify,10.0,🎫Subscription
-game ,500.0,✨misc
-goat,500.0,🍛Food
-dodo,50.0,🍛Food
-dodo,50.0,🍛Food
-uu,8.0,👷🏽Work
+name,amount,category
+Burger,500.0,🍛Food
+Sportify,300.0,👷🏽Work
+cloths,500.0,✨misc
+Garri ,100.0,🍛Food
